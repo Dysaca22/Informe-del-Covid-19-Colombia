@@ -1,0 +1,1 @@
+covid.cargadorRecursos.CargadorDatosTexto
